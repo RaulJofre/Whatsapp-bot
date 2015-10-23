@@ -7,6 +7,8 @@ A Whatsapp Messaging Bot Using Selenium.
 
 - Install Selenium : `pip install selenium`
 
+- Now Edit the whatsapp.py and select the contact you want to message.
+
 - Now, Run The script `python whatsapp.py` 
 
 - Simple. Isn't it. Enjoy!!
