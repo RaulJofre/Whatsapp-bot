@@ -7,7 +7,7 @@ A Whatsapp Messaging Bot Using Selenium.
 
 - Install Selenium : `pip install selenium`
 
-- Now Edit the whatsapp.py and select the contact you want to message.
+- Now Edit the whatsapp-firefox.py and change the firefox profile to save whatsapp previous data.
 
 - Now, Run The script `python whatsapp-firefox.py Name Times` And a firefox window will open.
 
